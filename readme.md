@@ -2,7 +2,7 @@
 
 Et lite Python-prosjekt som simulerer enkel, regelstyrt saksbehandling – slik det kan foregå i offentlig forvaltning (f.eks. hos NAV eller kommunen). 
 
-Prosjektet er laget som del av en søknad til master i forvaltningsinformatikk, og demonstrerer regelbaserte beslutninger, lagring av søknader i database, og innsikt i offentlig logikk.
+Prosjektet demonstrerer regelbaserte beslutninger, lagring av søknader i database, og innsikt i offentlig logikk.
 
 ## Screenshots
 <img width="399" height="288" alt="Skjermbilde 2025-08-18 005735" src="https://github.com/user-attachments/assets/6a1e2801-0790-4901-b718-3b265c84dbaa" />
