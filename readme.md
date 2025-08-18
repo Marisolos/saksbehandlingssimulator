@@ -5,7 +5,8 @@ Et lite Python-prosjekt som simulerer enkel, regelstyrt saksbehandling – slik 
 Prosjektet demonstrerer regelbaserte beslutninger, lagring av søknader i database, og innsikt i offentlig logikk.
 
 ## Screenshots
-<img width="399" height="288" alt="Skjermbilde 2025-08-18 005735" src="https://github.com/user-attachments/assets/6a1e2801-0790-4901-b718-3b265c84dbaa" />
+<img width="316" height="272" alt="image" src="https://github.com/user-attachments/assets/a3554e17-2f2d-4e00-b1aa-0906a404c69b" />
+
 
 <img width="343" height="275" alt="image" src="https://github.com/user-attachments/assets/7774956c-f58b-42c5-9565-a6a3feffd878" />
 
